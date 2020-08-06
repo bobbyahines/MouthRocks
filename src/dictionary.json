@@ -1,0 +1,523 @@
+{
+  "A": [
+    {
+      "abbreviation": "abs",
+      "word": "abscess",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "ABX",
+      "word": "antibiotics",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "A.D.A.",
+      "word": "american dental association",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "amal",
+      "word": "amalgam",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "ant",
+      "word": "anterior",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "B": [
+    {
+      "abbreviation": "B",
+      "word": "buccal",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": [
+        "tooth surfaces"
+      ]
+    },
+    {
+      "abbreviation": "B/U",
+      "word": "build up",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "BRDG",
+      "word": "bridge",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "BW",
+      "word": "bite wing(s)",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "BWX",
+      "word": "bite wing(s)",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "C": [
+    {
+      "abbreviation": "clm",
+      "word": "claim",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "comp",
+      "word": "composite",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "CRN",
+      "word": "crown",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "D": [
+    {
+      "abbreviation": "D",
+      "word": "distal",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": [
+        "tooth surfaces"
+      ]
+    },
+    {
+      "abbreviation": "DK",
+      "word": "decay",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "dn pmt",
+      "word": "down payment",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "D/O",
+      "word": "dental office",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "E": [
+    {
+      "abbreviation": "EOB",
+      "word": "estimate of benefits",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "EX",
+      "word": "exam",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "F": [
+    {
+      "abbreviation": "F",
+      "word": "facial",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": [
+        "tooth surfaces"
+      ]
+    },
+    {
+      "abbreviation": "FL2",
+      "word": "flouride",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "FLD",
+      "word": "full lower denture",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "FMX",
+      "word": "full mouth xrays",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "FUD",
+      "word": "full uppder denture",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "fx off",
+      "word": "fractured off",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "G": [
+    {
+      "abbreviation": "ga",
+      "word": "gauge",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "Gi cem",
+      "word": "gingivitis",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "gm",
+      "word": "gram",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "gms",
+      "word": "grams",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "H": [
+    {
+      "abbreviation": "Hg",
+      "word": "mercury",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "hx",
+      "word": "history",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "I": [
+    {
+      "abbreviation": "imp",
+      "word": "impression(s)",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "J": [],
+  "K": [],
+  "L": [
+    {
+      "abbreviation": "LL",
+      "word": "lower Left",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "LR",
+      "word": "lower right",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "M": [
+    {
+      "abbreviation": "M",
+      "word": "mesial",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": [
+        "tooth surfaces"
+      ]
+    },
+    {
+      "abbreviation": "mg",
+      "word": "milligram",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "mm",
+      "word": "millimeter",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "min",
+      "word": "minute",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "N": [
+    {
+      "abbreviation": "N2O",
+      "word": "nitrous oxide",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "NP",
+      "word": "new patient",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "NPE",
+      "word": "new patient exam",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "O": [
+    {
+      "abbreviation": "O",
+      "word": "occlusal",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": [
+        "tooth surfaces"
+      ]
+    },
+    {
+      "abbreviation": "Occ",
+      "word": "occlusal",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": [
+        "tooth surfaces"
+      ]
+    },
+    {
+      "abbreviation": "oz",
+      "word": "ounce",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "P": [
+    {
+      "abbreviation": "PA",
+      "word": "periapical xray",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "PAX",
+      "word": "periapical xray",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "pmt",
+      "word": "payment",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "pro",
+      "word": "prophylaxis",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "Q": [],
+  "R": [
+    {
+      "abbreviation": "RCT",
+      "word": "root canal",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "Rx",
+      "word": "prescription",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "S": [
+    {
+      "abbreviation": "SRP",
+      "word": "scaling and root planing",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "sens",
+      "word": "sensitive",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "T": [
+    {
+      "abbreviation": "th",
+      "word": "tooth",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "top",
+      "word": "topical anesthetic",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "TX",
+      "word": "treatment",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "tx",
+      "word": "treatment",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "U": [
+    {
+      "abbreviation": "UL",
+      "word": "upper left",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    },
+    {
+      "abbreviation": "UR",
+      "word": "upper right",
+      "definition": "",
+      "source": "",
+      "createdAt": "2020-08-05 00:00:00",
+      "tags": []
+    }
+  ],
+  "V": [],
+  "W": [],
+  "X": [],
+  "Y": [],
+  "Z": []
+}
+
